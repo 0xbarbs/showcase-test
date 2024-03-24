@@ -3,13 +3,8 @@
     "buttons": [
       {
         "type": "next-frame",
-        "label": "Features ->",
+        "label": "Next →",
         "target": ""
-      },
-      {
-        "type": "link",
-        "label": "GitHub",
-        "target": "https://google.com/"
       }
     ],
     "image": "images/0.png"
@@ -18,30 +13,15 @@
     "buttons": [
       {
         "type": "previous-frame",
-        "label": "<- Prev",
-        "target": ""
-      },
-      {
-        "type": "next-frame",
-        "label": "Next ->",
+        "label": "← Back",
         "target": ""
       },
       {
         "type": "mint",
         "label": "Mint",
-        "target": "eip:115"
+        "target": "eip155:8453:0xf5a3b6dee033ae5025e4332695931cadeb7f4d2b:1"
       }
     ],
     "image": "images/1.png"
-  },
-  {
-    "buttons": [
-      {
-        "type": "previous-frame",
-        "label": "Back",
-        "target": ""
-      }
-    ],
-    "image": "images/2.png"
   }
 ]
