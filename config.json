@@ -1,0 +1,47 @@
+[
+  {
+    "buttons": [
+      {
+        "type": "next-frame",
+        "label": "Features ->",
+        "target": ""
+      },
+      {
+        "type": "link",
+        "label": "GitHub",
+        "target": "https://google.com/"
+      }
+    ],
+    "image": "images/0.png"
+  },
+  {
+    "buttons": [
+      {
+        "type": "previous-frame",
+        "label": "<- Prev",
+        "target": ""
+      },
+      {
+        "type": "next-frame",
+        "label": "Next ->",
+        "target": ""
+      },
+      {
+        "type": "mint",
+        "label": "Mint",
+        "target": "eip:115"
+      }
+    ],
+    "image": "images/1.png"
+  },
+  {
+    "buttons": [
+      {
+        "type": "previous-frame",
+        "label": "Back",
+        "target": ""
+      }
+    ],
+    "image": "images/2.png"
+  }
+]
